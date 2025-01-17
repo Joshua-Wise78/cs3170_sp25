@@ -1,5 +1,5 @@
 /* 
-    Name: 
+    Name: Joshua Wise
     In-Class Problems 1
     Kotlin Basics
 */
